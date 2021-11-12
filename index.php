@@ -7,6 +7,16 @@
     <title>CRUD PHP</title>
 </head>
 <body>
-    Olá, mundo!
+    <h4>Listar Usuários</h4>
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Nome</th>
+                <th>E-mail</th>
+                <th>Ação</th>
+            </tr>
+        </thead>
+    </table>
 </body>
 </html>
